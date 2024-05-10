@@ -1,0 +1,7 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The patch step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command (connected)=S:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-Dcan_fetch=YES;-P;S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-gitupdate.cmake
+command (disconnected)=S:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe;-Dcan_fetch=NO;-P;S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-gitupdate.cmake
+work_dir=S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-src

@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule
+S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule
+S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule
+S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule
+S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule
+S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule
+S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule
+S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule
+S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule
+S:/Projects/TapeMaster/out/build/x64-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule
