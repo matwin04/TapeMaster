@@ -38,6 +38,8 @@ int main()
 		BeginDrawing();
 
 			ClearBackground(BLACK);
+
+			DrawText(TextFormat("%f",timePlayed),200,200,20,YELLOW);
 			DrawRectangle(200, 200, 400, 12, GREEN);
 			DrawRectangleGradientV(200, 200, (int)( timePlayed*400.0f), 12, MAROON, WHITE);
 			DrawRectangleLines(200, 200, 400, 12, LIGHTGRAY);
